@@ -6,7 +6,7 @@ pipeline{
                 sh 'echo hello'
             }
         }
-        stage('replacement'){
+        stage('replacement and test '){
             steps{
                 sh 'echo I am the best'
             }
