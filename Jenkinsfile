@@ -29,7 +29,7 @@ pipeline{
              nexusVersion: 'nexus3', protocol: 'http', repository: 'del-repo', 
              version: '0.0.2-SNAPSHOT'
 
-        }
+        }   }
     }       
           
 }
