@@ -8,7 +8,7 @@ pipeline{
         }
         stage('build'){
             steps{
-                sh 'echo hi'
+                sh 'echo I am the best'
             }
         }
     }       
